@@ -44,9 +44,9 @@ void solve(Solution *s) {
 
 int main() {
 #ifndef ONLINE_JUDGE
-	freopen("inputf.in", "r", stdin);
-	freopen("outputf.in", "w", stdout);
-	freopen("errorf.in", "w", stderr);
+	freopen("../../../inputf.in", "r", stdin);
+	freopen("../../../outputf.in", "w", stdout);
+	freopen("../../../errorf.in", "w", stderr);
 #endif
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
